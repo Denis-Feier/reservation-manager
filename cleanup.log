@@ -1,0 +1,4 @@
+delete Location class
+delete DummyService class
+delete service package
+refactor Main
